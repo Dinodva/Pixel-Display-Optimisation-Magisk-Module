@@ -23,6 +23,7 @@
 
 ### Support
 https://github.com/Dinodva/Pixel-Display-Optimisation-Magisk-Module
+https://forum.xda-developers.com/t/module-pixel-display-optimisation-magisk-module.4273921/
 
 ### Change Log :
 * Version: 1.0
