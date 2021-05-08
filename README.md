@@ -1,7 +1,10 @@
-# Pixel-Display-Optimisation-Dinodva-Magisk-Module
+## Pixel-Display-Optimisation-Dinodva-Magisk-Module
 
 ### Description
 *Few display optimisation tweaks adopted from Pixel 3a to any Android mobile.*
+
+### What this module changes
+* This module enable Pixel display color sheme, turn on sRGB mode and add some other display tweaks.
 
 ### Requirements
 * Android 9, 10, or 11
