@@ -2,13 +2,13 @@
 Display tweaks adopted from Pixel 3a.
 
 ### Description
-Few display optimisation tweaks ported from Pixel 3a to any Android mobile.
+**Few display optimisation tweaks ported from Pixel 3a to any Android mobile.**
 
 ### Requirements
 * Android 9, 10, or 11
 * Magisk 20.4 installed
 
-### Warning!!!
+### Preluminary
 * Use latest version of Orangefox recovery or any other recovery with options to disable and uninstal Magisk modules in case of bootloop.
 
 ### Installation Guide
