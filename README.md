@@ -1,7 +1,7 @@
 # Pixel-Display-Optimisation-Dinodva-Magisk-Module
 
 ### Description
-**Few display optimisation tweaks adopted from Pixel 3a to any Android mobile.**
+*Few display optimisation tweaks adopted from Pixel 3a to any Android mobile.*
 
 ### Requirements
 * Android 9, 10, or 11
