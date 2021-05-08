@@ -1,4 +1,4 @@
-# Pixel-Display-Optimisation-Dinodva-Mod-Magisk-Module
+# Pixel-Display-Optimisation-Dinodva-Magisk-Module
 Display tweaks adopted from Pixel 3a.
 
 ### Description
