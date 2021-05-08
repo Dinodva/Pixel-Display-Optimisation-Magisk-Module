@@ -9,6 +9,7 @@
 ### Requirements
 * Android 9, 10, or 11
 * Magisk 20.4 installed
+* Tested on Redmi7 Lineage OS17
 
 ### Preluminary
 * Use latest version of Orangefox recovery or any other recovery with options to disable and uninstal Magisk modules in case of bootloop.
