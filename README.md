@@ -22,7 +22,7 @@
 * If bootloop happens, reboot into recovery and disable module. Use recovery with inbuilt manager of Magisk modules, such as last version of Orangefox. If you don't have, download it on pc, copy to sd card and then reboot into your recovery and flash it.
 
 ### Support
-https://github.com/Dinodva/Pixel-Display-Optimisation-Dinodva-Magisk-Module
+https://github.com/Dinodva/Pixel-Display-Optimisation-Magisk-Module
 
 ### Change Log :
 * Version: 1.0
