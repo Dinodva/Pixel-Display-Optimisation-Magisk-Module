@@ -29,7 +29,7 @@ XDA link: https://forum.xda-developers.com/t/module-pixel-display-optimisation-m
 ### Disclaimer:
 * The author of this mod is not responsible for any form of damage, which may arise from using it; use it at your own risk.
 
-###© Copyright:
+### ©Copyright:
 * Anyone can use and modify this module, and include it in their projects as long as they are provided free of cost. Any commercial use of this module is strictly prohibited.
 
 ### Change Log:
